@@ -22,6 +22,8 @@ echo "sendgrid.env" >> .gitignore
 source ./sendgrid.env
 ```
 
+Test      
+
 ```bash
 git clone https://github.com/sendgrid/open-source-library-data-collector.git
 cd sendgrid-open-source-library-external-data
