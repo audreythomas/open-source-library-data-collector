@@ -6,6 +6,8 @@
 
 All updates to this project is documented in our [CHANGELOG](https://github.com/sendgrid/open-source-library-data-collector/blob/master/CHANGELOG.md).
 
+Testing the CLA process again
+
 # Installation
 
 ## Environment Variables
